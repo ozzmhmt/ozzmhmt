@@ -1,7 +1,7 @@
 
 ### Hello World!  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" /></a>
 
-<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/source.gif" width="90px"></h2
+<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/source.gif" width="90px">
 
 
 Hi, I'm Mehmet. I'm a software engineer living in Istanbul, Turkey.  I have been developing native android for 6 years and developing native iOS in 4 years. I'm a fan of technology, outdoor and programming. 
@@ -11,8 +11,8 @@ Portfolio site: [Portfolio](https://ozzmhmt.github.io/)
 
 **📫 Where to find me:** 
 
-[![Twitter Badge](https://img.shields.io/badge/-@isenkubilay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ozzmhmt)](https://twitter.com/ozzmhmt) [![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozzmehmet/)](https://www.linkedin.com/in/ozzmehmet/) 
-[![Gmail Badge](https://img.shields.io/badge/-isen.kubilay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isen.ozzmehmet92@gmail.com)](mailto:ozzmehmet92@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@iozzmhmt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ozzmhmt)](https://twitter.com/ozzmhmt) [![Linkedin Badge](https://img.shields.io/badge/-ozzmehmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozzmehmet/)](https://www.linkedin.com/in/ozzmehmet/) 
+[![Gmail Badge](https://img.shields.io/badge/-ozzmehmet92y@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isen.ozzmehmet92@gmail.com)](mailto:ozzmehmet92@gmail.com)
 
 
 **💼 Currently working as:** Software Engineer at <a href="http://www.hamurlabs.com/" target="_blank"><b>Hamurlabs</b></a>
