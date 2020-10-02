@@ -11,7 +11,7 @@ Portfolio site: [Portfolio](https://ozzmhmt.github.io/)
 
 **📫 Where to find me:** 
 
-[![Twitter Badge](https://img.shields.io/badge/-@iozzmhmt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ozzmhmt)](https://twitter.com/ozzmhmt) [![Linkedin Badge](https://img.shields.io/badge/-ozzmehmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozzmehmet/)](https://www.linkedin.com/in/ozzmehmet/) 
+[![Twitter Badge](https://img.shields.io/badge/-@ozzmhmt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ozzmhmt)](https://twitter.com/ozzmhmt) [![Linkedin Badge](https://img.shields.io/badge/-ozzmehmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozzmehmet/)](https://www.linkedin.com/in/ozzmehmet/) 
 [![Gmail Badge](https://img.shields.io/badge/-ozzmehmet92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isen.ozzmehmet92@gmail.com)](mailto:ozzmehmet92@gmail.com)
 
 
