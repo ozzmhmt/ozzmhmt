@@ -1,10 +1,12 @@
 
 ### Hello World!  
 <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" /></a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt" alt="Mehmet's top-langs" /></a>
-
-    
+<a href="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt" alt="Mehmet's top-langs" />
+</a>
 </div>
 
 <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/source.gif" width="90px">
