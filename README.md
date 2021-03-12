@@ -9,8 +9,6 @@
 </a>
 </div>
 
-<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/source.gif" width="90px">
-
 
 Hi, I'm Mehmet. I'm a software engineer living in Istanbul, Turkey.  I have been developing native android for 6 years and developing native iOS in 4 years. I'm a fan of technology, outdoor and programming. 
 
