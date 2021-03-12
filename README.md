@@ -1,5 +1,3 @@
-
-### Hello World!  
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" />
@@ -10,10 +8,9 @@
 </div>
 
 
-
-
-
+<div>
 Hi, I'm Mehmet. I'm a software engineer living in Istanbul, Turkey.  I have been developing native android for 6 years and developing native iOS in 4 years. I'm a fan of technology, outdoor and programming. 
+</div>
 
 Portfolio site: [Portfolio](https://ozzmhmt.github.io/)
 
