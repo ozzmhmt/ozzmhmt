@@ -1,4 +1,4 @@
-<div style="width:100vw;">
+<div style="width:100vw; margin-bottom:1rem;">
 <a href="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" />
 </a>
