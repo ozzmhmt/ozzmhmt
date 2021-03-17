@@ -1,9 +1,9 @@
-<div style="width:100vw; margin-bottom:1rem;">
+<div style="width:100vw; margin-bottom:1rem; display:flex;">
 <a href="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" style="display: flex;">
     <img style="margin-left:auto;" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt" alt="Mehmet's top-langs" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt" style="display: flex;">
+    <img style="margin-left:auto;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt" alt="Mehmet's top-langs" />
 </a>
 </div>
 
