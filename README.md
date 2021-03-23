@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; margin-bottom:50px;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt"
             alt="Mehmet's top-langs" />
