@@ -9,7 +9,10 @@
             alt="Mehmet's github stats" />
     </a>
 </div>
+<br>
 
+
+</br>
 
 <div style="margin-top:50px;">
     Hi, I'm Mehmet. I'm a software engineer living in Istanbul, Turkey. I have been developing native android for 6
