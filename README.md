@@ -11,7 +11,7 @@
 </div>
 
 
-<div style="margin-top:10rem;">
+<div style="margin-top:50px;">
     Hi, I'm Mehmet. I'm a software engineer living in Istanbul, Turkey. I have been developing native android for 6
     years and developing native iOS in 4 years. I'm a fan of technology, outdoor and programming.
 </div>
