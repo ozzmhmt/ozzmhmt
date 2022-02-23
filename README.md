@@ -32,8 +32,9 @@ Badge](https://img.shields.io/badge/-ozzmehmet-blue?style=flat-square&logo=Linke
 Badge](https://img.shields.io/badge/-ozzmehmet92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isen.ozzmehmet92@gmail.com)](mailto:ozzmehmet92@gmail.com)
 
 
-*💼 Currently working as:* Software Engineer at <a href="https://logithink.com.tr/"
-    target="_blank"><b>Logithink</b></a>
+*💼 Currently working as:* Software Engineer at <a href="http://www.atmosware.com.tr/"
+    target="_blank"><b>Atmosware</b></a> <a href="https://www.turkcell.com.tr/"
+    target="_blank"><b>Turkcell</b></a>
 
 *👨🏻‍💻 Currently working on:*
 
